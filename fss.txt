@@ -1,4 +1,4 @@
-#1477843322 1477843330
-usa.iss.tf 1024 69905882 aes-256-cfb US
-hka.iss.tf 20000 31266230 aes-256-cfb HK
-jpa.iss.tf 10008 22551380 aes-256-cfb JP
+#1477864922 1477864931
+usa.iss.tf 1024 03768182 aes-256-cfb US
+hka.iss.tf 20000 86719990 aes-256-cfb HK
+jpa.iss.tf 10008 48223856 aes-256-cfb JP
